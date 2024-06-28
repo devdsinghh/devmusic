@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0bbad3b8b333dd8fa1f2b.jpg">
+  <img src="https://telegra.ph/file/86678cdd070745cd4fb0c.jpg">
 </p>
 
 <p align="center">
@@ -10,4 +10,4 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/nobodydi/MUSICBABY"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/devdsinghh/devmusic/tree/main"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
