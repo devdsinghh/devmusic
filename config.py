@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","CLASSYSPY")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lovemyself019")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABYMUSICXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "black_rose08_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝘽𝘼𝘽𝙔 ✘ 𝙈𝙐𝙎𝙄𝘾")
+BOT_NAME = getenv("BOT_NAME" , "𝘽𝙇𝘼𝘾𝙆 ✘ 𝙍𝙊𝙎𝙀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "BABYXMUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME" , "𝘽𝙇𝘼𝘾𝙆 𝙍𝙊𝙎𝙀")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002069776570))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002215430115))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6343335143))
+OWNER_ID = int(getenv("OWNER_ID", 7278167363))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABYXMOVIES")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CHATSUPPORTY")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/devfeels0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dev_quiz_group")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
