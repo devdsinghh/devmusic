@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "black_rose08_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝘽𝙇𝘼𝘾𝙆 ✘ 𝙍𝙊𝙎𝙀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝘽𝙇𝘼𝘾𝙆 𝙍𝙊𝙎𝙀")
+ASSUSERNAME = getenv("ASSUSERNAME" , "ll_pandaaaa_ll")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/devdsinghh/devmusic/tree/main/",
+    "https://github.com/nobodydi/MUSICBABY",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
