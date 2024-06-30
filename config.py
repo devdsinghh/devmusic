@@ -16,11 +16,11 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","lovemyself019")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "pandamusic0_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "PANDAMUSICXBOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝘽𝙇𝘼𝘾𝙆 ✘ 𝙍𝙊𝙎𝙀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "ll_pandaaaa_ll")
+ASSUSERNAME = getenv("ASSUSERNAME" , "PANDASSISTANT")
 # ---------------------------------------------------------
 
 
