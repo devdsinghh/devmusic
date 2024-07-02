@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","lovemyself019")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Inddrrraaa")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "PANDAMUSICXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "BLACKROSE0BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝘽𝙇𝘼𝘾𝙆 ✘ 𝙍𝙊𝙎𝙀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "PANDASSISTANT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Inddrrraaa")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002215116360))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7278167363))
+OWNER_ID = int(getenv("OWNER_ID", 7404506441))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
